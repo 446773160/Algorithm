@@ -1,0 +1,69 @@
+2023-06-18 06:05:27,702 - parking.py[line:73] - INFO: park init start!
+2023-06-18 06:05:27,704 - parking.py[line:81] - INFO: redis connect success!
+2023-06-18 06:05:27,728 - parking.py[line:98] - INFO: park init end!
+2023-06-18 06:05:27,729 - parking.py[line:273] - INFO: car plate: 皖A12340 park in A01
+2023-06-18 06:05:27,731 - parking.py[line:273] - INFO: car plate: 皖A12341 park in A02
+2023-06-18 06:05:27,732 - parking.py[line:273] - INFO: car plate: 皖A12342 park in A03
+2023-06-18 06:05:27,733 - parking.py[line:273] - INFO: car plate: 皖A12343 park in E01
+2023-06-18 06:05:27,734 - parking.py[line:273] - INFO: car plate: 皖A12344 park in E02
+2023-06-18 06:05:27,735 - parking.py[line:273] - INFO: car plate: 皖A12345 park in A04
+2023-06-18 06:05:27,736 - parking.py[line:273] - INFO: car plate: 皖A12346 park in E03
+2023-06-18 06:05:27,737 - parking.py[line:383] - INFO: 15
+2023-06-18 06:05:27,737 - parking.py[line:387] - INFO: creat epoll success!
+2023-06-18 06:05:41,043 - parking.py[line:193] - INFO: connect to enter success
+2023-06-18 06:05:41,045 - parking.py[line:290] - INFO: video saver open success
+2023-06-18 06:05:43,794 - parking.py[line:214] - INFO: car plate: 京AF0236 enter park
+2023-06-18 06:05:43,795 - parking.py[line:273] - INFO: car plate: 京AF0236 park in A05
+2023-06-18 06:05:43,826 - parking.py[line:231] - INFO: msg send to enter success
+2023-06-18 06:05:44,795 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:05:44,937 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:05:45,293 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:05:54,433 - parking.py[line:399] - INFO: Connected by ('172.24.64.1', 60916)
+2023-06-18 06:05:54,434 - parking.py[line:290] - INFO: video saver open success
+2023-06-18 06:05:59,508 - parking.py[line:438] - INFO: recv img from ('172.24.64.1', 60916)
+2023-06-18 06:06:00,414 - parking.py[line:438] - INFO: recv img from ('172.24.64.1', 60916)
+2023-06-18 06:06:02,489 - parking.py[line:438] - INFO: recv img from ('172.24.64.1', 60916)
+2023-06-18 06:06:04,250 - parking.py[line:438] - INFO: recv img from ('172.24.64.1', 60916)
+2023-06-18 06:06:05,148 - parking.py[line:438] - INFO: recv img from ('172.24.64.1', 60916)
+2023-06-18 06:06:06,044 - parking.py[line:438] - INFO: recv img from ('172.24.64.1', 60916)
+2023-06-18 06:06:17,423 - parking.py[line:399] - INFO: Connected by ('172.24.64.1', 60917)
+2023-06-18 06:06:17,424 - parking.py[line:290] - INFO: video saver open success
+2023-06-18 06:06:20,303 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:06:21,273 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:06:21,968 - parking.py[line:442] - ERROR: no plate in img
+2023-06-18 06:06:22,942 - parking.py[line:442] - ERROR: no plate in img
+2023-06-18 06:06:29,236 - parking.py[line:442] - ERROR: no plate in img
+2023-06-18 06:06:32,622 - parking.py[line:442] - ERROR: no plate in img
+2023-06-18 06:06:37,870 - parking.py[line:442] - ERROR: no plate in img
+2023-06-18 06:06:47,806 - parking.py[line:442] - ERROR: no plate in img
+2023-06-18 06:06:49,484 - parking.py[line:438] - INFO: recv img from ('172.24.64.1', 60917)
+2023-06-18 06:06:51,126 - parking.py[line:438] - INFO: recv img from ('172.24.64.1', 60917)
+2023-06-18 06:06:52,021 - parking.py[line:438] - INFO: recv img from ('172.24.64.1', 60917)
+2023-06-18 06:06:52,992 - parking.py[line:438] - INFO: recv img from ('172.24.64.1', 60917)
+2023-06-18 06:07:17,497 - parking.py[line:308] - INFO: Exit Connected by('172.24.64.1', 60920)
+2023-06-18 06:07:17,498 - parking.py[line:290] - INFO: video saver open success
+2023-06-18 06:07:23,755 - parking.py[line:329] - INFO: car plate: 京AF0236 enter park
+2023-06-18 06:07:23,756 - parking.py[line:160] - INFO: car plate: 京AF0236 leave park
+2023-06-18 06:07:23,765 - parking.py[line:344] - ERROR: get() returned more than one ParkingLot -- it returned 11!
+2023-06-18 06:07:26,759 - parking.py[line:346] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:07:27,743 - parking.py[line:346] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:07:31,266 - parking.py[line:346] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:07:32,736 - parking.py[line:346] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:07:33,731 - parking.py[line:346] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:07:35,731 - parking.py[line:346] - INFO: car plate: 京AFQ236 repeat!
+2023-06-18 06:07:39,241 - parking.py[line:346] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:07:41,728 - parking.py[line:346] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:07:42,285 - parking.py[line:346] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:08:01,222 - parking.py[line:346] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:08:01,899 - parking.py[line:346] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:08:02,932 - parking.py[line:346] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:08:04,443 - parking.py[line:346] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:08:04,859 - parking.py[line:346] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:08:06,725 - parking.py[line:346] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:08:07,228 - parking.py[line:346] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:08:51,367 - parking.py[line:442] - ERROR: no plate in img
+2023-06-18 06:08:53,476 - parking.py[line:440] - ERROR: no location of Redis
+2023-06-18 06:09:22,519 - parking.py[line:440] - ERROR: no location of Redis
+2023-06-18 06:10:01,260 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:10:02,238 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:13:44,898 - parking.py[line:440] - ERROR: no location of Redis

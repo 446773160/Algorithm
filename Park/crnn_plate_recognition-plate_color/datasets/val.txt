@@ -1,0 +1,284 @@
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110020_33.jpg 55 57 43 43 42 42 44 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110020_34.jpg 55 57 43 43 42 42 44 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110028_1165.jpg 55 57 43 43 42 42 44 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110028_1166.jpg 55 57 43 43 42 42 44 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110028_575.jpg 55 57 43 43 42 42 44 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110028_576.jpg 55 57 43 43 42 42 44 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110198_371.jpg 55 57 43 43 42 43 51 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110198_372.jpg 55 57 43 43 42 43 51 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110198_471.jpg 55 57 43 43 42 43 51 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110198_472.jpg 55 57 43 43 42 43 51 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110208_1146.jpg 55 57 43 43 42 44 42 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110208_1147.jpg 55 57 43 43 42 44 42 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110243_1251.jpg 55 57 43 43 42 44 46 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110243_1291.jpg 55 57 43 43 42 44 46 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110389_1089.jpg 55 57 43 43 42 45 50 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110389_1090.jpg 55 57 43 43 42 45 50 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110389_1197.jpg 55 57 43 43 42 45 50 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110389_315.jpg 55 57 43 43 42 45 50 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110389_316.jpg 55 57 43 43 42 45 50 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110389_586.jpg 55 57 43 43 42 45 50 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110389_587.jpg 55 57 43 43 42 45 50 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110389_602.jpg 55 57 43 43 42 45 50 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110389_603.jpg 55 57 43 43 42 45 50 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF8B0189_164.jpg 55 57 50 53 42 43 50 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF8B0191_1010.jpg 55 57 50 53 42 43 51 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF8B0200_977.jpg 55 57 50 53 42 44 42 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF8B0200_978.jpg 55 57 50 53 42 44 42 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF8B0201_1110.jpg 55 57 50 53 42 44 42 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF8B0201_1111.jpg 55 57 50 53 42 44 42 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF8B5050_1174.jpg 55 57 50 53 47 42 47 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF8B5050_1175.jpg 55 57 50 53 47 42 47 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF8B5050_243.jpg 55 57 50 53 47 42 47 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF8B5050_244.jpg 55 57 50 53 47 42 47 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0027_1564.jpg 59 73 55 43 54 42 42 44 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0104_155.jpg 59 73 55 43 54 42 43 42 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0104_156.jpg 59 73 55 43 54 42 43 42 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0182_1402.jpg 59 73 55 43 54 42 43 50 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0183_740.jpg 59 73 55 43 54 42 43 50 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0271_1340.jpg 59 73 55 43 54 42 44 49 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0271_1341.jpg 59 73 55 43 54 42 44 49 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0284_1782.jpg 59 73 55 43 54 42 44 50 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0284_1784.jpg 59 73 55 43 54 42 44 50 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0289_923.jpg 59 73 55 43 54 42 44 50 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0290_677.jpg 59 73 55 43 54 42 44 51 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0293_1327.jpg 59 73 55 43 54 42 44 51 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0295_40.jpg 59 73 55 43 54 42 44 51 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0303_1699.jpg 59 73 55 43 54 42 45 42 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0303_1700.jpg 59 73 55 43 54 42 45 42 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0306_191.jpg 59 73 55 43 54 42 45 42 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0306_192.jpg 59 73 55 43 54 42 45 42 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0312_650.jpg 59 73 55 43 54 42 45 43 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0315_246.jpg 59 73 55 43 54 42 45 43 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0315_247.jpg 59 73 55 43 54 42 45 43 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0315_279.jpg 59 73 55 43 54 42 45 43 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0315_280.jpg 59 73 55 43 54 42 45 43 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0322_684.jpg 59 73 55 43 54 42 45 44 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0323_1394.jpg 59 73 55 43 54 42 45 44 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0329_530.jpg 59 73 55 43 54 42 45 44 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0329_531.jpg 59 73 55 43 54 42 45 44 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0337_1633.jpg 59 73 55 43 54 42 45 45 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0337_1634.jpg 59 73 55 43 54 42 45 45 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0341_946.jpg 59 73 55 43 54 42 45 46 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0341_947.jpg 59 73 55 43 54 42 45 46 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0343_1361.jpg 59 73 55 43 54 42 45 46 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0344_689.jpg 59 73 55 43 54 42 45 46 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0351_1252.jpg 59 73 55 43 54 42 45 47 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/DF110389_1196.jpg 55 57 43 43 42 45 50 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0027_1565.jpg 59 73 55 43 54 42 42 44 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0308_1325.jpg 59 73 55 43 54 42 45 42 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0351_674.jpg 59 73 55 43 54 42 45 47 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0396_1121.jpg 59 73 55 43 54 42 45 51 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0432_1108.jpg 59 73 55 43 54 42 46 45 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0514_55.jpg 59 73 55 43 54 42 47 43 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0730_32.jpg 59 73 55 43 54 42 49 45 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6233_211.jpg 59 73 55 43 54 48 44 45 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6285_631.jpg 59 73 55 43 54 48 44 50 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6568_1020.jpg 59 73 55 43 54 48 47 48 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1D0414_789.jpg 59 73 55 43 55 42 46 43 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0268_1806.jpg 59 73 55 45 55 42 44 48 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0004_713.jpg 68 68 49 56 42 42 42 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0063_1334.jpg 68 68 49 56 42 42 48 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0352_1711.jpg 59 73 55 43 54 42 45 47 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0352_1712.jpg 59 73 55 43 54 42 45 47 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0354_1370.jpg 59 73 55 43 54 42 45 47 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0354_1379.jpg 59 73 55 43 54 42 45 47 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0366_1562.jpg 59 73 55 43 54 42 45 48 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0366_1563.jpg 59 73 55 43 54 42 45 48 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0369_480.jpg 59 73 55 43 54 42 45 48 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0369_481.jpg 59 73 55 43 54 42 45 48 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0372_1431.jpg 59 73 55 43 54 42 45 49 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0373_629.jpg 59 73 55 43 54 42 45 49 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0377_927.jpg 59 73 55 43 54 42 45 49 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0377_928.jpg 59 73 55 43 54 42 45 49 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0382_109.jpg 59 73 55 43 54 42 45 50 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0382_110.jpg 59 73 55 43 54 42 45 50 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0386_1303.jpg 59 73 55 43 54 42 45 50 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0386_1304.jpg 59 73 55 43 54 42 45 50 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0396_1122.jpg 59 73 55 43 54 42 45 51 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0400_11.jpg 59 73 55 43 54 42 46 42 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0400_357.jpg 59 73 55 43 54 42 46 42 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0402_1544.jpg 59 73 55 43 54 42 46 42 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0403_1096.jpg 59 73 55 43 54 42 46 42 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0403_1097.jpg 59 73 55 43 54 42 46 42 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0403_509.jpg 59 73 55 43 54 42 46 42 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0406_1137.jpg 59 73 55 43 54 42 46 42 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0406_1138.jpg 59 73 55 43 54 42 46 42 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0413_1080.jpg 59 73 55 43 54 42 46 43 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0413_1081.jpg 59 73 55 43 54 42 46 43 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0416_213.jpg 59 73 55 43 54 42 46 43 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0416_214.jpg 59 73 55 43 54 42 46 43 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0422_148.jpg 59 73 55 43 54 42 46 44 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0422_149.jpg 59 73 55 43 54 42 46 44 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0432_1107.jpg 59 73 55 43 54 42 46 45 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0435_1674.jpg 59 73 55 43 54 42 46 45 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0435_1826.jpg 59 73 55 43 54 42 46 45 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0441_348.jpg 59 73 55 43 54 42 46 46 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0441_349.jpg 59 73 55 43 54 42 46 46 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0447_998.jpg 59 73 55 43 54 42 46 46 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0447_999.jpg 59 73 55 43 54 42 46 46 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0449_343.jpg 59 73 55 43 54 42 46 46 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0449_344.jpg 59 73 55 43 54 42 46 46 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0497_1804.jpg 59 73 55 43 54 42 46 51 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0497_1805.jpg 59 73 55 43 54 42 46 51 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0504_1642.jpg 59 73 55 43 54 42 47 42 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0504_1643.jpg 59 73 55 43 54 42 47 42 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0508_133.jpg 59 73 55 43 54 42 47 42 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0508_134.jpg 59 73 55 43 54 42 47 42 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0509_403.jpg 59 73 55 43 54 42 47 42 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0509_404.jpg 59 73 55 43 54 42 47 42 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0514_667.jpg 59 73 55 43 54 42 47 43 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0534_1645.jpg 59 73 55 43 54 42 47 45 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0534_1646.jpg 59 73 55 43 54 42 47 45 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0609_224.jpg 59 73 55 43 54 42 48 42 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0609_225.jpg 59 73 55 43 54 42 48 42 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0676_1338.jpg 59 73 55 43 54 42 48 49 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0683_1603.jpg 59 73 55 43 54 42 48 50 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0704_1115.jpg 59 73 55 43 54 42 49 42 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0704_1116.jpg 59 73 55 43 54 42 49 42 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0709_468.jpg 59 73 55 43 54 42 49 42 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0709_469.jpg 59 73 55 43 54 42 49 42 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0713_1032.jpg 59 73 55 43 54 42 49 43 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0713_1033.jpg 59 73 55 43 54 42 49 43 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0721_878.jpg 59 73 55 43 54 42 49 44 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0721_879.jpg 59 73 55 43 54 42 49 44 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0729_1019.jpg 59 73 55 43 54 42 49 44 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0752_1525.jpg 59 73 55 43 54 42 49 47 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0760_1465.jpg 59 73 55 43 54 42 49 48 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0895_1104.jpg 59 73 55 43 54 42 50 51 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C0895_1105.jpg 59 73 55 43 54 42 50 51 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6031_1614.jpg 59 73 55 43 54 48 42 45 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6031_1725.jpg 59 73 55 43 54 48 42 45 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6142_801.jpg 59 73 55 43 54 48 43 46 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6142_802.jpg 59 73 55 43 54 48 43 46 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6152_1817.jpg 59 73 55 43 54 48 43 47 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6152_1818.jpg 59 73 55 43 54 48 43 47 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6155_1794.jpg 59 73 55 43 54 48 43 47 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6174_351.jpg 59 73 55 43 54 48 43 49 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6186_951.jpg 59 73 55 43 54 48 43 50 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6186_952.jpg 59 73 55 43 54 48 43 50 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6228_634.jpg 59 73 55 43 54 48 44 44 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6228_656.jpg 59 73 55 43 54 48 44 44 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6233_212.jpg 59 73 55 43 54 48 44 45 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6244_1730.jpg 59 73 55 43 54 48 44 46 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6248_68.jpg 59 73 55 43 54 48 44 46 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6265_1328.jpg 59 73 55 43 54 48 44 48 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6265_1329.jpg 59 73 55 43 54 48 44 48 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6273_766.jpg 59 73 55 43 54 48 44 49 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6273_767.jpg 59 73 55 43 54 48 44 49 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6276_1472.jpg 59 73 55 43 54 48 44 49 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6276_1479.jpg 59 73 55 43 54 48 44 49 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6276_169.jpg 59 73 55 43 54 48 44 49 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6276_170.jpg 59 73 55 43 54 48 44 49 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6281_1576.jpg 59 73 55 43 54 48 44 50 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6281_1577.jpg 59 73 55 43 54 48 44 50 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6281_75.jpg 59 73 55 43 54 48 44 50 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6281_76.jpg 59 73 55 43 54 48 44 50 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6284_1597.jpg 59 73 55 43 54 48 44 50 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6290_1261.jpg 59 73 55 43 54 48 44 51 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6290_1263.jpg 59 73 55 43 54 48 44 51 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6292_258.jpg 59 73 55 43 54 48 44 51 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6292_259.jpg 59 73 55 43 54 48 44 51 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6292_287.jpg 59 73 55 43 54 48 44 51 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6292_288.jpg 59 73 55 43 54 48 44 51 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6355_860.jpg 59 73 55 43 54 48 45 47 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6355_861.jpg 59 73 55 43 54 48 45 47 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6375_1444.jpg 59 73 55 43 54 48 45 49 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6377_954.jpg 59 73 55 43 54 48 45 49 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6416_646.jpg 59 73 55 43 54 48 46 43 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6416_661.jpg 59 73 55 43 54 48 46 43 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6419_608.jpg 59 73 55 43 54 48 46 43 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6420_985.jpg 59 73 55 43 54 48 46 44 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6463_1757.jpg 59 73 55 43 54 48 46 48 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6468_227.jpg 59 73 55 43 54 48 46 48 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C6568_1021.jpg 59 73 55 43 54 48 47 48 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C8055_1469.jpg 59 73 55 43 54 50 42 47 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C8055_845.jpg 59 73 55 43 54 50 42 47 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C8072_1441.jpg 59 73 55 43 54 50 42 49 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1C8072_1442.jpg 59 73 55 43 54 50 42 49 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1D0044_619.jpg 59 73 55 43 55 42 42 46 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1D0044_620.jpg 59 73 55 43 55 42 42 46 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1D0081_1663.jpg 59 73 55 43 55 42 42 50 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1D0081_1815.jpg 59 73 55 43 55 42 42 50 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1D0085_1278.jpg 59 73 55 43 55 42 42 50 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1D0085_1279.jpg 59 73 55 43 55 42 42 50 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1D0086_463.jpg 59 73 55 43 55 42 42 50 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1D0086_464.jpg 59 73 55 43 55 42 42 50 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1D0319_1152.jpg 59 73 55 43 55 42 45 43 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1D0319_1153.jpg 59 73 55 43 55 42 45 43 51 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1D0413_1628.jpg 59 73 55 43 55 42 46 43 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1D0607_1311.jpg 59 73 55 43 55 42 48 42 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD1D0607_1459.jpg 59 73 55 43 55 42 48 42 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0026_1389.jpg 59 73 55 45 55 42 42 44 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0026_1390.jpg 59 73 55 45 55 42 42 44 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0032_1610.jpg 59 73 55 45 55 42 42 45 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0032_1721.jpg 59 73 55 45 55 42 42 45 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0091_415.jpg 59 73 55 45 55 42 42 51 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0091_416.jpg 59 73 55 45 55 42 42 51 43 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0096_1587.jpg 59 73 55 45 55 42 42 51 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0096_1589.jpg 59 73 55 45 55 42 42 51 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0110_482.jpg 59 73 55 45 55 42 43 43 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0110_494.jpg 59 73 55 45 55 42 43 43 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0110_495.jpg 59 73 55 45 55 42 43 43 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0112_1778.jpg 59 73 55 45 55 42 43 43 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0112_1779.jpg 59 73 55 45 55 42 43 43 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0268_1561.jpg 59 73 55 45 55 42 44 48 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0272_406.jpg 59 73 55 45 55 42 44 49 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0272_407.jpg 59 73 55 45 55 42 44 49 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0283_673.jpg 59 73 55 45 55 42 44 50 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0286_1580.jpg 59 73 55 45 55 42 44 50 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0288_1288.jpg 59 73 55 45 55 42 44 50 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0288_1293.jpg 59 73 55 45 55 42 44 50 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0683_368.jpg 59 73 55 45 55 42 48 50 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0683_369.jpg 59 73 55 45 55 42 48 50 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0683_84.jpg 59 73 55 45 55 42 48 50 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0683_85.jpg 59 73 55 45 55 42 48 50 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0686_848.jpg 59 73 55 45 55 42 48 50 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D0686_849.jpg 59 73 55 45 55 42 48 50 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/HXD3D107_819.jpg 59 73 55 45 55 43 42 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0004_1541.jpg 68 68 49 56 42 42 42 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0004_524.jpg 68 68 49 56 42 42 42 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0004_525.jpg 68 68 49 56 42 42 42 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0004_714.jpg 68 68 49 56 42 42 42 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0005_1668.jpg 68 68 49 56 42 42 42 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0008_611.jpg 68 68 49 56 42 42 42 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0008_612.jpg 68 68 49 56 42 42 42 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0014_1743.jpg 68 68 49 56 42 42 43 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0014_1745.jpg 68 68 49 56 42 42 43 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0014_683.jpg 68 68 49 56 42 42 43 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0014_691.jpg 68 68 49 56 42 42 43 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0042_1210.jpg 68 68 49 56 42 42 46 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0042_1502.jpg 68 68 49 56 42 42 46 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0046_905.jpg 68 68 49 56 42 42 46 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0046_906.jpg 68 68 49 56 42 42 46 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0057_436.jpg 68 68 49 56 42 42 47 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0057_91.jpg 68 68 49 56 42 42 47 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0057_92.jpg 68 68 49 56 42 42 47 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0062_1548.jpg 68 68 49 56 42 42 48 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0064_648.jpg 68 68 49 56 42 42 48 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0066_104.jpg 68 68 49 56 42 42 48 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0066_105.jpg 68 68 49 56 42 42 48 48 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0074_1574.jpg 68 68 49 56 42 42 49 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0075_727.jpg 68 68 49 56 42 42 49 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0082_1767.jpg 68 68 49 56 42 42 50 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0082_1768.jpg 68 68 49 56 42 42 50 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0087_1471.jpg 68 68 49 56 42 42 50 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0087_1618.jpg 68 68 49 56 42 42 50 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0093_1239.jpg 68 68 49 56 42 42 51 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0093_1240.jpg 68 68 49 56 42 42 51 45 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0105_1680.jpg 68 68 49 56 42 43 42 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0105_1681.jpg 68 68 49 56 42 43 42 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0107_1682.jpg 68 68 49 56 42 43 42 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0107_1683.jpg 68 68 49 56 42 43 42 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0107_545.jpg 68 68 49 56 42 43 42 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0107_546.jpg 68 68 49 56 42 43 42 49 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0108_891.jpg 68 68 49 56 42 43 42 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0108_892.jpg 68 68 49 56 42 43 42 50 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0114_1795.jpg 68 68 49 56 42 43 43 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0114_1796.jpg 68 68 49 56 42 43 43 46 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0120_1751.jpg 68 68 49 56 42 43 44 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0120_1771.jpg 68 68 49 56 42 43 44 42 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0125_1848.jpg 68 68 49 56 42 43 44 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0125_1849.jpg 68 68 49 56 42 43 44 47 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0132_709.jpg 68 68 49 56 42 43 45 44 
+/mnt/Gu/trainData/plate/final/git_release/val_huoche/SS7E0132_710.jpg 68 68 49 56 42 43 45 44 

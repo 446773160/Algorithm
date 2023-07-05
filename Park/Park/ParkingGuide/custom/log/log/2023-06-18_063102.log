@@ -1,0 +1,26 @@
+2023-06-18 06:31:05,475 - parking.py[line:73] - INFO: park init start!
+2023-06-18 06:31:05,477 - parking.py[line:81] - INFO: redis connect success!
+2023-06-18 06:31:05,500 - parking.py[line:98] - INFO: park init end!
+2023-06-18 06:31:05,501 - parking.py[line:273] - INFO: car plate: 皖A12340 park in A01
+2023-06-18 06:31:05,502 - parking.py[line:273] - INFO: car plate: 皖A12341 park in A02
+2023-06-18 06:31:05,503 - parking.py[line:273] - INFO: car plate: 皖A12342 park in A03
+2023-06-18 06:31:05,504 - parking.py[line:273] - INFO: car plate: 皖A12343 park in E01
+2023-06-18 06:31:05,505 - parking.py[line:273] - INFO: car plate: 皖A12344 park in E02
+2023-06-18 06:31:05,507 - parking.py[line:273] - INFO: car plate: 皖A12345 park in A04
+2023-06-18 06:31:05,508 - parking.py[line:273] - INFO: car plate: 皖A12346 park in E03
+2023-06-18 06:31:05,509 - parking.py[line:393] - INFO: 16
+2023-06-18 06:31:05,509 - parking.py[line:397] - INFO: creat epoll success!
+2023-06-18 06:31:39,432 - parking.py[line:193] - INFO: connect to enter success
+2023-06-18 06:31:39,433 - parking.py[line:290] - INFO: video saver open success
+2023-06-18 06:31:45,719 - parking.py[line:214] - INFO: car plate: 京AF0236 enter park
+2023-06-18 06:31:45,723 - parking.py[line:273] - INFO: car plate: 京AF0236 park in A05
+2023-06-18 06:31:45,761 - parking.py[line:231] - INFO: msg send to enter success
+2023-06-18 06:31:46,180 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:31:46,678 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 06:31:57,198 - parking.py[line:308] - INFO: Exit Connected by('172.24.64.1', 57995)
+2023-06-18 06:31:57,200 - parking.py[line:290] - INFO: video saver open success
+2023-06-18 06:31:57,511 - parking.py[line:329] - INFO: car plate: 京AF0236 enter park
+2023-06-18 06:31:57,512 - parking.py[line:160] - INFO: car plate: 京AF0236 leave park
+2023-06-18 06:31:57,512 - parking.py[line:334] - INFO: delete start
+2023-06-18 06:31:57,532 - parking.py[line:336] - INFO: create ParkingLot
+2023-06-18 06:31:57,532 - parking.py[line:338] - INFO: datetime get success

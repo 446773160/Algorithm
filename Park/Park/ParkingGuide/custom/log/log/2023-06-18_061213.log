@@ -1,0 +1,10 @@
+2023-06-18 06:12:17,566 - parking.py[line:73] - INFO: park init start!
+2023-06-18 06:12:17,568 - parking.py[line:81] - INFO: redis connect success!
+2023-06-18 06:12:17,604 - parking.py[line:98] - INFO: park init end!
+2023-06-18 06:12:17,604 - parking.py[line:273] - INFO: car plate: 皖A12340 park in A01
+2023-06-18 06:12:17,606 - parking.py[line:273] - INFO: car plate: 皖A12341 park in A02
+2023-06-18 06:12:17,607 - parking.py[line:273] - INFO: car plate: 皖A12342 park in A03
+2023-06-18 06:12:17,609 - parking.py[line:273] - INFO: car plate: 皖A12343 park in E01
+2023-06-18 06:12:17,610 - parking.py[line:273] - INFO: car plate: 皖A12344 park in E02
+2023-06-18 06:12:17,611 - parking.py[line:273] - INFO: car plate: 皖A12345 park in A04
+2023-06-18 06:12:17,612 - parking.py[line:273] - INFO: car plate: 皖A12346 park in E03

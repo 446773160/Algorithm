@@ -1,0 +1,2 @@
+2023-06-18 14:43:26,263 - parking.py[line:73] - INFO: park init start!
+2023-06-18 14:43:26,265 - parking.py[line:81] - INFO: redis connect success!

@@ -1,0 +1,33 @@
+2023-06-18 05:55:47,881 - parking.py[line:73] - INFO: park init start!
+2023-06-18 05:55:47,882 - parking.py[line:81] - INFO: redis connect success!
+2023-06-18 05:55:47,906 - parking.py[line:98] - INFO: park init end!
+2023-06-18 05:55:47,907 - parking.py[line:273] - INFO: car plate: 皖A12340 park in A01
+2023-06-18 05:55:47,908 - parking.py[line:273] - INFO: car plate: 皖A12341 park in A02
+2023-06-18 05:55:47,910 - parking.py[line:273] - INFO: car plate: 皖A12342 park in A03
+2023-06-18 05:55:47,911 - parking.py[line:273] - INFO: car plate: 皖A12343 park in E01
+2023-06-18 05:55:47,912 - parking.py[line:273] - INFO: car plate: 皖A12344 park in E02
+2023-06-18 05:55:47,913 - parking.py[line:273] - INFO: car plate: 皖A12345 park in A04
+2023-06-18 05:55:47,914 - parking.py[line:273] - INFO: car plate: 皖A12346 park in E03
+2023-06-18 05:55:47,914 - parking.py[line:383] - INFO: 15
+2023-06-18 05:55:47,915 - parking.py[line:387] - INFO: creat epoll success!
+2023-06-18 05:56:01,954 - parking.py[line:193] - INFO: connect to enter success
+2023-06-18 05:56:01,956 - parking.py[line:290] - INFO: video saver open success
+2023-06-18 05:56:02,723 - parking.py[line:214] - INFO: car plate: 京AF0236 enter park
+2023-06-18 05:56:02,725 - parking.py[line:273] - INFO: car plate: 京AF0236 park in A05
+2023-06-18 05:56:02,762 - parking.py[line:231] - INFO: msg send to enter success
+2023-06-18 05:56:03,374 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 05:56:03,500 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 05:56:03,772 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 05:56:04,178 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 05:56:08,180 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 05:56:08,687 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 05:56:09,218 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 05:56:13,064 - parking.py[line:399] - INFO: Connected by ('172.24.64.1', 60801)
+2023-06-18 05:56:13,065 - parking.py[line:290] - INFO: video saver open success
+2023-06-18 05:57:02,527 - parking.py[line:399] - INFO: Connected by ('172.24.64.1', 60807)
+2023-06-18 05:57:02,528 - parking.py[line:290] - INFO: video saver open success
+2023-06-18 05:57:13,395 - parking.py[line:415] - INFO: Disconnected by ('172.24.64.1', 60807)
+2023-06-18 05:57:36,004 - parking.py[line:415] - INFO: Disconnected by ('172.24.64.1', 60801)
+2023-06-18 06:00:30,640 - parking.py[line:399] - INFO: Connected by ('172.24.64.1', 60884)
+2023-06-18 06:00:30,641 - parking.py[line:290] - INFO: video saver open success
+2023-06-18 06:00:59,044 - parking.py[line:415] - INFO: Disconnected by ('172.24.64.1', 60884)

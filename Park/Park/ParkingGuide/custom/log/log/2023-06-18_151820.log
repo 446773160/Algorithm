@@ -1,0 +1,29 @@
+2023-06-18 15:18:24,787 - parking.py[line:73] - INFO: park init start!
+2023-06-18 15:18:24,800 - parking.py[line:81] - INFO: redis connect success!
+2023-06-18 15:18:24,828 - parking.py[line:98] - INFO: park init end!
+2023-06-18 15:18:24,829 - parking.py[line:273] - INFO: car plate: 皖A12340 park in A01
+2023-06-18 15:18:24,830 - parking.py[line:273] - INFO: car plate: 皖A12341 park in A02
+2023-06-18 15:18:24,831 - parking.py[line:273] - INFO: car plate: 皖A12342 park in A03
+2023-06-18 15:18:24,832 - parking.py[line:273] - INFO: car plate: 皖A12343 park in E01
+2023-06-18 15:18:24,834 - parking.py[line:273] - INFO: car plate: 皖A12344 park in E02
+2023-06-18 15:18:24,836 - parking.py[line:273] - INFO: car plate: 皖A12345 park in A04
+2023-06-18 15:18:24,837 - parking.py[line:273] - INFO: car plate: 皖A12346 park in E03
+2023-06-18 15:18:24,840 - parking.py[line:398] - INFO: 15
+2023-06-18 15:18:24,841 - parking.py[line:402] - INFO: creat epoll success!
+2023-06-18 15:18:46,742 - parking.py[line:193] - INFO: connect to enter success
+2023-06-18 15:18:46,749 - parking.py[line:290] - INFO: video saver open success
+2023-06-18 15:18:48,010 - parking.py[line:214] - INFO: car plate: 京AF0236 enter park
+2023-06-18 15:18:48,013 - parking.py[line:273] - INFO: car plate: 京AF0236 park in A05
+2023-06-18 15:18:48,034 - parking.py[line:231] - INFO: msg send to enter success
+2023-06-18 15:18:49,213 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 15:18:49,491 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 15:18:49,920 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 15:18:50,440 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 15:18:50,952 - parking.py[line:233] - INFO: car plate: 京AF0236 repeat!
+2023-06-18 15:18:58,749 - parking.py[line:308] - INFO: Exit Connected by('172.24.64.1', 61805)
+2023-06-18 15:18:58,750 - parking.py[line:290] - INFO: video saver open success
+2023-06-18 15:19:00,042 - parking.py[line:329] - INFO: car plate: 京AF0236 enter park
+2023-06-18 15:19:00,043 - parking.py[line:160] - INFO: car plate: 京AF0236 leave park
+2023-06-18 15:19:00,044 - parking.py[line:334] - INFO: delete start
+2023-06-18 15:19:00,056 - parking.py[line:338] - INFO: create ParkingLot
+2023-06-18 15:19:00,056 - parking.py[line:340] - INFO: datetime get success
